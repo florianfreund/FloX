@@ -1,0 +1,62 @@
+{
+    "modulkombi": {
+        "filename": "C:/Users/Florian.Freund/OneDrive - Amadeus Fire AG/Desktop/neue Var Auto/FloX3.xlsx",
+        "sheet": "Variationen",
+        "columns": {
+            "Modulnummern": "Modulnummern kommagetrennt NEU\nNach Übernahme ",
+            "Kursübersicht": "Kursübersicht der Einzelmodule\nrot = Einzelmodul wartet auf Template)\nALT",
+            "EinleitungNeu": "Einleitung NEU Sabine vgl. Spalte I\n\nGrün: in ESTHER übernommen",
+            "TitelFeld": "Neu zertifizierter Titel der Maßnahme NEU",
+            "TitelNeu": "Titeloptimierung Edtelligent/ Sabine\nvgl. Spalte C rosa\nVgl. Bericht 5.8\nGrün: in ESTHER übernommen",
+            "Systematik_Feld": "Systematik in Kursnet",
+            "Keyword_Feld": "Keyword-Optimierung Sabine/ Edtelligent 04_25\n\nVgl. Bericht 5.6\nGrün: in ESTHER übernommen",
+            "Termine_Feld": "Termine_Feld",
+            "Inhalte_Feld": "Inhalt NEU",
+            "DauerFeld": "DauerFeld",
+            "Zielgruppe": "Zielgruppe",
+            "Voraussetzungen": "Voraussetzungen",
+            "Abschlussart": "Abschlussart",
+            "Abschlussbezeichnung": "Abschlussbezeichnung"
+        }
+    },
+    "module": {
+        "filename": "C:/Users/Florian.Freund/OneDrive - Amadeus Fire AG/Desktop/neue Var Auto/20251113-000-FLFR-kursangebote-kursnet.xlsx",
+        "sheet": "Kursangebote - 13.11.2025",
+        "azure_params": null,
+        "columns": {
+            "Modulnummer1": "interne Angebotsnummer",
+            "Modulnummer2": "öffentliche Angebotsnummer",
+            "Titel": "Titel",
+            "Inhalt": "Inhalt",
+            "Beschreibung": "Kursbeschreibung"
+        }
+    },
+    "mapping": {
+        "filename": "C:/Users/Florian.Freund/OneDrive - Amadeus Fire AG/Desktop/neue Var Auto/mapping.xlsx",
+        "sheet": "Tabelle1",
+        "azure_params": null,
+        "columns": {
+            "Modulnummer Alt": "Angebotsnummer ALT",
+            "Modulnummer Neu": "Angebotsnummer NEU",
+            "Modulnummer HP": "HP-Modul-Nummer\nauch für Kursfinder"
+        }
+    },
+    "keywords": {
+        "filename": "C:/Users/Florian.Freund/OneDrive - Amadeus Fire AG/Desktop/neue Var Auto/keywords.xlsx",
+        "sheet": "Sheet1",
+        "azure_params": null,
+        "columns": {
+            "Kategorie Suchvolumen": "Kategorie Suchvolumen"
+        }
+    },
+    "systematik": {
+        "filename": "C:/Users/Florian.Freund/OneDrive - Amadeus Fire AG/Desktop/neue Var Auto/systematiken.json",
+        "azure_params": null,
+        "columns": {}
+    },
+    "prompts": {
+        "filename": "C:/Users/Florian.Freund/OneDrive - Amadeus Fire AG/Desktop/neue Var Auto/prompts.json",
+        "azure_params": null,
+        "columns": {}
+    }
+}
